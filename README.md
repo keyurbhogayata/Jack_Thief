@@ -8,5 +8,5 @@ All cards are denoted by this nomenclature "TN"
 here, T denotes Type of cards like S = Spade, C = Club, D = Diamond, H = Heart
 N denotes number of corresponding card like 1,2,..,J,Q,K.
 
-We have to provide how many players are going to play and their name. 
-Then in the final it will tell that which person is Jack Thief.
+We have to provide how many players are going to play and their name.
+At the final it will tell that which person is Jack Thief.
