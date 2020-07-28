@@ -1,7 +1,7 @@
 /*
  		+++ JACK THIEF GAME +++
  		
-@author RDP
+@author RDP And KB
 *ASUMPTIONS*
 	1.MACHINE HAS NO PREFERENCE IT PLAYS COMPLETELY RANDOMLY.
 	2..
@@ -17,10 +17,10 @@
 #include <algorithm>
 using namespace std;
 /*
-S= spade
-C= club
-d= diamond
-h =heart
+S = Spade
+C = Club
+D = Diamond
+H = Deart
 */
 //Collection of cards As an array of strings
 string cards[]=
@@ -254,9 +254,9 @@ int main()
 					//Displaying cards to make sure that only one player is left with only one card which is JACK.
 					for(i=0;i<num;i++)
 						{
-						cout<<names[i]<<"'S CARDS :";
-						p[i].display();
-						cout<<endl;
+							cout<<names[i]<<"'S CARDS :";
+							p[i].display();
+							cout<<endl;
 						}
 					//Displaying number of moves it took to complete the game.
 					cout<<"\nGAME COMPLETED AFTER "<<cnt_moves<<" MOVES !!!"<<endl;	
