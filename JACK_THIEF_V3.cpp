@@ -20,7 +20,7 @@ using namespace std;
 S = Spade
 C = Club
 D = Diamond
-H = Deart
+H = Heart
 */
 //Collection of cards As an array of strings
 string cards[] =
