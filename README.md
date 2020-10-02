@@ -1,7 +1,8 @@
 # Jack Thief Card Game
 
 ## 1.About
-We have implemented Jack Thief Card Game using C++ in which PC will play this card game.
+We have implemented Jack Thief Card Game using C++ in which computer will play this card game.
+This is complete random game so in this distribution of cards will be complete random.
 
 ## 2.How to Run 
 All cards are denoted by this nomenclature "TN"
